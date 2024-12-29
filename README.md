@@ -3,6 +3,7 @@
 #### Project showcasing and testing the following algorithms':
 - DFS (recursive and iterative), BFS
 - CC/SCC, Topological Sort
+- Check tree, find center node, build tree
 - MST Algorithms: Prim, Kruskal, Boruvka
 - Shortest path Algorithms: Dijkstra, Bellman-Ford
 - Flow Algorithms: Ford-Fulkerson, Cycle Cancelling Algorithm
